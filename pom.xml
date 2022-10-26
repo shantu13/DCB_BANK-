@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>01-maven-web-app</finalName>
+    <finalName>DCB_BANK</finalName>
   </build>
 </project>
